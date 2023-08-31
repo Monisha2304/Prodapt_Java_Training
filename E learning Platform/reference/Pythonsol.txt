@@ -1,0 +1,60 @@
+
+
+----------------Question 1---------------------
+
+The expected answer for the question number 1 is c
+The answer you provided is 
+
+
+----------------Question 2---------------------
+
+The expected answer for the question number 2 is d
+The answer you provided is 1
+
+
+----------------Question 3---------------------
+
+The expected answer for the question number 3 is b
+The answer you provided is 1
+
+
+----------------Question 4---------------------
+
+The expected answer for the question number 4 is c
+The answer you provided is 1
+
+
+----------------Question 5---------------------
+
+The expected answer for the question number 5 is a
+The answer you provided is 1
+
+
+----------------Question 6---------------------
+
+The expected answer for the question number 6 is d
+The answer you provided is 1
+
+
+----------------Question 7---------------------
+
+The expected answer for the question number 7 is a
+The answer you provided is 1
+
+
+----------------Question 8---------------------
+
+The expected answer for the question number 8 is a
+The answer you provided is 1
+
+
+----------------Question 9---------------------
+
+The expected answer for the question number 9 is b
+The answer you provided is 1
+
+
+----------------Question 10---------------------
+
+The expected answer for the question number 10 is b
+The answer you provided is 1

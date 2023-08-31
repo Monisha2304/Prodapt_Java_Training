@@ -1,0 +1,10 @@
+option1 : making the food for plant 
+option2 : making the food for animals 
+option3 : making the food for pet 
+option4 : making the food for Aliens
+1
+option1 : giving the green colour to leaf
+option2 : giving the red colour to flowers
+option3 : giving violet colour in rainbow
+option4 : giving the eye colour to cat 
+1

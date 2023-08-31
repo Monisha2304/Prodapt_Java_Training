@@ -1,0 +1,15 @@
+Write a program to add the 2 numbers.
+
+
+Sample input 1 
+--------------
+10
+20
+
+Sample output 1
+---------------
+30
+
+Explanation 
+-----------
+(10+20)=30 

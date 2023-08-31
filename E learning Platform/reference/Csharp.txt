@@ -1,0 +1,60 @@
+1. How many Bytes are stored by ‘Long’ Data type in C# .net?
+a) 8
+b) 4
+c) 2
+d) 1
+a
+2. Choose “.NET class” name from which data type “UInt” is derived?
+a) System.Int16
+b) System.UInt32
+c) System.UInt64
+d) System.UInt16
+b
+3. Correct Declaration of Values to variables ‘a’ and ‘b’?
+a) int a = 32, b = 40.6;
+b) int a = 42; b = 40;
+c) int a = 32; int b = 40;
+d) int a = b = 42;
+c
+4. Arrange the following data type in order of increasing magnitude sbyte, short, long, int.
+a) long < short < int < sbyte
+b) sbyte < short < int < long
+c) short < sbyte < int < long
+d) short < int < sbyte < long
+b
+5. Which data type should be more preferred for storing a simple number like 35 to improve execution speed of a program?
+a) sbyte
+b) short
+c) int
+d) long
+a
+6. Correct way to assign values to variable ‘c’ when int a=12, float b=3.5, int c;
+a) c = a + b;
+b) c = a + int(float(b));
+c) c = a + convert.ToInt32(b);
+d) c = int(a + b);
+c
+7. Default Type of number without decimal is?
+a) Long Int
+b) Unsigned Long
+c) Int
+d) Unsigned Int
+c 
+8. Select a convenient declaration and initialization of a floating point number:
+a) float somevariable = 12.502D
+b) float somevariable = (Double) 12.502D
+c) float somevariable = (float) 12.502D
+d) float somevariable = (Decimal)12.502D
+c
+9.Number of digits upto which precision value of float data type is valid?
+a) Upto 6 digit
+b) Upto 8 digit
+c) Upto 9 digit
+d) Upto 7 digit
+d
+10. Valid Size of float data type is?
+a) 10 Bytes
+b) 6 Bytes
+c) 4 Bytes
+d) 8 Bytes
+c

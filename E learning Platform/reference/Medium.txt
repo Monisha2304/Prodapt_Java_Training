@@ -1,0 +1,15 @@
+Get the input list which contains n integers from the user and write the program to find the prime numbers in the list of integers and print the integers seperated by a space.
+
+Sample input 1
+--------------
+6
+3 6 9 11 27 2
+
+Sample output 1
+---------------
+3 11 2 
+
+Explanation 
+-----------
+3,11,2 are prime numbers so they are printed.
+6,9,27 are not a prime numbers so they are not printed.
