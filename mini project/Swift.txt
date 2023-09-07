@@ -1,0 +1,60 @@
+1. Which of the following is true about Swift?
+a) Swift is an open-source programming language
+b) Swift is used in iOS development
+c) Swift can be compiled as a dynamic framework
+d) All of the above
+d
+2. Swift is an open-source programming language developed by?
+a. Google
+b. Facebook
+c. Apple
+d. IBM
+c
+3. What is the meaning of question mark "?" in Swift?
+a. used in function declaration
+b. used in property declaration
+c. used in loop declaration
+d. used in parameter declaration
+b
+4. How can you make a property optional in Swift?
+a. You have to declare a question mark & in the code to make a property optional
+b. You have to declare a question mark ? in the code to make a property optional
+c. You have to declare a question mark ?? in the code to make a property optional
+d. None of the above
+c
+5. Which operator specifies a range between two values a and b (a
+a. full open range
+b. half close range
+c. full close range
+d. half open range
+d
+6. In Swift4, functions can be categorized in __________ types.
+a. 1
+b. 2
+c. 3
+d. 4
+b
+7. A function inside a function is called a nested function in swift?
+a. TRUE
+b. FALSE
+c. Can be true or false
+d. Can not say
+a
+8. ________________ is a hierarchy of objects that obtain the opportunity to respond to the events.
+a. Regular Expression
+b. Dictionary
+c. Responder Chain
+d. None of the above
+c
+9. Enum is also known as Swift Enumeration.
+a. Yes
+b. No
+c. Can be yes or no
+d. Can not say
+a
+10. Constants are declared by using _____ keyword and variables by _______ keyword.
+a. var, let
+b. let, let
+c. var, var
+d. let, var
+d

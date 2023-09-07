@@ -1,0 +1,238 @@
+java1
+-----
+import java.util.*;
+public class Java1{
+	public static void main(String [] args){
+
+		Scanner sc=new Scanner(System.in);
+		int a=sc.nextInt();
+		int b=sc.nextInt();
+		System.out.println(a+b);
+
+	}
+}
+
+java2
+-----
+import java.util.*;
+public class Java3{
+	public static void main(String[] args){
+		Scanner sc=new Scanner(System.in);
+		int sum=0;
+		int a=sc.nextInt();
+		int arr[][]=new int[a][a];
+		for(int i=0;i<a;i++){
+			for(int j=0;j<a;j++){
+				arr[i][j]=sc.nextInt();
+			}
+		}
+		for(int i=0;i<a;i++){
+			sum+=arr[0][i];
+			sum+=arr[a-1][i];
+			
+		}
+		for(int i=1;i<a-1;i++){
+			sum+=arr[i][0];
+			sum+=arr[i][a-1];
+		}
+		System.out.println(sum);
+	}
+}
+
+
+java3
+------
+import java.util.*;
+public class Java3{
+	public static void main(String[] args){
+		Scanner sc=new Scanner(System.in);
+		int sum=0;
+		int a=sc.nextInt();
+		int arr[][]=new int[a][a];
+		for(int i=0;i<a;i++){
+			for(int j=0;j<a;j++){
+				arr[i][j]=sc.nextInt();
+			}
+		}
+		for(int i=0;i<a;i++){
+			sum+=arr[0][i];
+			sum+=arr[a-1][i];
+			
+		}
+		for(int i=1;i<a-1;i++){
+			sum+=arr[i][0];
+			sum+=arr[i][a-1];
+		}
+		System.out.println(sum);
+	}
+}
+
+python1
+-------
+a=int(input())
+b=int(input())
+print(a+b)
+
+python2
+-------
+a=int(input())
+l=list(map(int,input().split()))
+for i in l:
+    if i==2:
+        print(i,end=" ")
+    else:
+        u=0
+        for j in range(2,(i//2)+1):
+            if i%j==0:
+                u=1 
+                break
+        if u==0:
+            print(i,end=" ")
+print()
+
+python3
+-------
+a=int(input())
+l=[]
+for i in  range(a):
+    l.append(list(map(int,input().split())))
+s=0
+s+=sum(l[0])
+s+=sum(l[-1])
+for i in range(1,a-1):
+    s+=l[i][0]
+    s+=l[i][-1]
+print(s)
+	
+Learning11
+---------
+print("Hello Gear Up......I am here......")
+
+
+Learning12 
+-----------
+a=input().strip()
+print(len(a))
+
+Learning13
+-----------
+a=int(input())
+l=list(map(int,input().split()))
+print(sum(l))
+
+Learning 14
+------------
+n=int(input())
+m=int(input())
+l=[]
+for i in range(n):
+	l.append(list(map(int,input().split())))
+for i in l:
+	for j in i:
+		if j%2==0:
+			print(j,end=" ")
+print()
+
+
+Learning15
+----------
+a=int(input())
+l=list(map(int,input().split()))
+print(*l[:4])
+
+
+Learning11 java
+----------------
+import java.util.*;
+public class Java1{
+	public static void main(String [] args){
+
+		//Code here
+		System.out.println("Hello Gear Up......I am here......");
+
+	}
+}
+
+
+Learning12 java
+----------------
+import java.util.*;
+public class Java1{
+	public static void main(String [] args){
+
+		//Code here
+		Scanner sc=new Scanner(System.in);
+		String s=sc.next();
+		System.out.println(s.length());
+
+	}
+}
+
+
+Learning13 
+-----------
+import java.util.*;
+public class Java1{
+	public static void main(String [] args){
+
+		//Code here
+		Scanner sc=new Scanner(System.in);
+		int a=sc.nextInt();
+		int arr[]=new int[a];
+		int m=0;
+		for(int i=0;i<a;i++){
+			arr[i]=sc.nextInt();
+			m+=arr[i];
+		}
+		System.out.println(m);
+		
+
+	}
+}
+
+
+Learning14 java
+----------------
+import java.util.*;
+public class Java1{
+	public static void main(String [] args){
+
+		//Code here
+		Scanner sc=new Scanner(System.in);
+		int a=sc.nextInt();
+		int b=sc.nextInt();
+		int arr[][]=new int[a][b];
+		for(int i=0;i<a;i++){
+			for(int j=0;j<b;j++){
+				arr[i][j]=sc.nextInt();
+				if(arr[i][j]%2==0){
+					System.out.print(arr[i][j]+" ");
+				}
+			}
+		}
+		System.out.println();
+
+	}
+}
+Learning 15 java
+-----------------
+import java.util.*;
+public class Java1{
+	public static void main(String [] args){
+
+		//Code here
+		Scanner sc=new Scanner(System.in);
+		int a=sc.nextInt();
+		int arr[]=new int[a];
+		for(int i=0;i<a;i++){
+			arr[i]=sc.nextInt();
+		}
+		for(int i=0;i<4;i++){
+			System.out.print(arr[i]+" ");
+		}
+		System.out.println();
+
+	}
+}
+
+
